@@ -1,0 +1,6 @@
+﻿  JParcheesi.cc
+  game.cc
+  main.cc
+  Generando código...
+PlayerArnau.lib(PlayerArnau.obj) : warning LNK4099: no se encontró PDB 'PlayerArnau.pdb' con 'PlayerArnau.lib(PlayerArnau.obj)' o en 'C:\Users\Jonathan\Desktop\ESAT\2PVG\Programacion_Avanzada\2PA-2526-perisbe\2PA-2526-perisbe-main\Parcheesi\NewParcheesi\parcheesi\build\bin\Debug\PlayerArnau.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Parcheesi.vcxproj -> C:\Users\Jonathan\Desktop\ESAT\2PVG\Programacion_Avanzada\2PA-2526-perisbe\2PA-2526-perisbe-main\Parcheesi\NewParcheesi\parcheesi\build\bin\Debug\Parcheesi.exe
